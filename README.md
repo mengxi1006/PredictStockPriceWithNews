@@ -8,4 +8,4 @@ Contributors:
 Yue Guo (Data cleaning & stock selection, stock price and return calculation)
 Ying Wang (Data cleaning & stock selection, stock price and return calculation)
 Mengxi Wang (News Preprocessing, Data cleaning, PCA)
-Zhoudan Pan (Linear Dynamic Model)
+Zhoudan Pan (Auto-Regressive Model - Parameter Selection, Model Validation)
