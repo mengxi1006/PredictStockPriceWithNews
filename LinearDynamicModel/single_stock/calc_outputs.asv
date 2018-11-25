@@ -1,0 +1,9 @@
+clear 
+load y_withnews
+size_data = size(y_data);
+num_col = size_data(2);
+
+for i = 1:num_col
+    fit_id_wonews = y_woNews(1:dimIdent)-
+
+end
