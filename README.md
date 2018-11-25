@@ -7,5 +7,5 @@ The data were inially cleaned and sorted using Python. After reducing the number
 Contributors:
 Yue Guo (Data cleaning & stock selection, stock price and return calculation)
 Ying Wang (Data cleaning & stock selection, stock price and return calculation)
-Mengxi Wang (Data cleaning, PCA)
+Mengxi Wang (News Preprocessing, Data cleaning, PCA)
 Zhoudan Pan (Linear Dynamic Model)
